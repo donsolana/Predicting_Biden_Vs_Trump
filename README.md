@@ -4,7 +4,7 @@
 In 2016 Donald John Trump became the president of the United States against all odds, many prominent election research organisations gave the then contender Hillary Clinton a higher chance of winning, with confident predictions in favor of the former secretary of state ranging around eighty to ninety percent, nevertheless Donald Trump emerged as the winner. 
 
 ### Bayesian Statistics
-The 2016 presidential election is proof that elections can be notoriously difficult to predict acurately. However, certain techniques such as Bayesian statistics has been known to produce more accurate results. The core idea behind bayesian methods is to update an uninformed/best-guess judgement based on new information/data. 
+The 2016 presidential election is proof that elections can be notoriously difficult to predict acurately. However, certain techniques such as Bayesian statistics have been known to produce more accurate results. The core idea behind bayesian methods is to update an uninformed/best-guess judgement based on new information/data. 
 
 ### Assumptions
 1. A key assumption is that the distribution of votes in the population and its sample is aproximately normal. This of course comes with its own set of assumptions. for more click on [this link](https://en.wikipedia.org/wiki/Normal_distribution)
