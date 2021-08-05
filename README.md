@@ -16,5 +16,5 @@ The data we use to model the election was gotten from opinion polls conducted by
 ### Conclusion
 Here we see that Biden wins about 80% of the time in our simulation of 10000 iterations.
 
-#### ***Note***
-Predicting elections is not straight forward, in 2016 most people predicted that Hillary clinton will win with overwhelming odds, technically speaking you can only call an election if it falls within a predetermined confidence interval. Famous mathematians and quantitative analyst have long quarrelled about the soundness of this method. Nevertheless, this method or a slightly more complex variation of it, is championed by top poll agregators.
+#### ***Note***/***Disclaimer***:
+Predicting elections is not straight forward, in 2016 most people predicted that Hillary clinton will win with overwhelming odds, technically speaking you can only call an election if it falls within a predetermined confidence interval. Famous mathematians and quantitative analysts have long quarrelled about the soundness of this method. Nevertheless, this method or a slightly more complex variation of it, is championed by top poll agregators.
