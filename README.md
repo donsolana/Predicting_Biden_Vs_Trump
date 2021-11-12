@@ -21,6 +21,7 @@ Predicting elections is not straight forward, in 2016 most people predicted that
 
 ### References
 **Data**: FiveThirtyEight
+
 **Introduction to Data Science: Data Analysis and Prediction Algorithms with R - Rafael Irizazzy**
 
 *Professor Rafeal's book is not only the inspiration for this project but it also contains some of the domain knowledge that is hard coded into the simulation. i.e We a included a bias term and assumed that certain counties will always vote a certain way.* 
